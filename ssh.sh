@@ -31,7 +31,8 @@ EOF
 cat << EOF > /etc/banner
 <br>
 <font>ೋ˚❁ೃೀ๑۩۞۩๑ೃೀ❁ೋ˚</font><br>
-<font>┊┊┊┊ <b><font color="#ff5079">&nbsp;Rezoth</font>™</b></font><br>
+<font>☁ <b><font color="#8000ff">&nbsp;《《PRIVATE SSH》》</font>™</b></font><br>
+<font>┊┊┊┊ <b><font color="#00ff00">&nbsp;Made BY【චම්ම】</font>™</b></font><br>
 <font>┊┊┊✧ </font><br>
 <font>┊┊✦ <font color="#A52A2A">&nbsp;NO HACKING !!!</font></font><br>
 <font>┊✧ <font color="#8A2BE2">&nbsp;NO CARDING !!!</font></font><br>
